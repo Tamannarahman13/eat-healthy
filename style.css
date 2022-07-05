@@ -1,0 +1,80 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.orange {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+
+}
+
+section {
+    margin-bottom: 10%;
+}
+
+.top-banner {
+    margin-left: 5%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+
+.button {
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 50px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10%;
+
+}
+
+.about-me {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.center {
+    text-align: center;
+}
+
+#person {
+    width: 60%;
+}
+
+.my-recipe {
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+
+.recipe-item {
+    width: 40%;
+    margin-left: 5%;
+    border-radius: 5%;
+
+
+    padding-left: 10px;
+
+    box-shadow: 10px 10px 40px gray;
+}
