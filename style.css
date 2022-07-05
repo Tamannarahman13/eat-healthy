@@ -78,3 +78,38 @@ section {
 
     box-shadow: 10px 10px 40px gray;
 }
+
+.money {
+    display: flex;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    margin-right: 5%;
+    padding: 10px 40px;
+    border-radius: 3%;
+
+
+}
+
+#k {
+    margin-left: 20px;
+}
+
+#m {
+    margin-left: 20%;
+}
+
+#n {
+    margin-left: 20%;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px 40px;
+
+}
+
+.gray {
+    color: gray;
+}
